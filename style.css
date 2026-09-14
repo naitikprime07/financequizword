@@ -963,7 +963,7 @@ body .margin-top-20px{
 
   .logo {
     color: white;
-    font-size: 28px;
+    font-size: 18px;
     font-weight: bold;
    -webkit-text-fill-color:#3b82f6;
     letter-spacing: 1px;
@@ -1179,7 +1179,7 @@ svg.play_icon{
   /* Responsive */
   @media (max-width: 768px) {
     .logo {
-      font-size: 22px;
+      font-size: 16px;
     }
 
     .coins {
